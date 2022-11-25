@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.arrow-image {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  outline: none;
+  color: #475569;
+}
+
+.list-item-styles {
+  list-style-type: none;
+  margin-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 0px;
+}
